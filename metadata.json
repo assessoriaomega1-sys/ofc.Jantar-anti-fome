@@ -1,0 +1,8 @@
+{
+  "name": "V3 Jantar anti-fome",
+  "description": "Método médico da Dra. Cecília Figueira para Reset Metabólico do Abdome na Menopausa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
